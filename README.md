@@ -31,7 +31,7 @@ To disable tryout mode you'll need a Geekbench 4 Pro account.
 docker run \
   -e "email=user@example.com" \
   -e "key=" \
-  aarreoskari/geekbench4
+  88plug/geekbench4
 ```
 
 ## Development
