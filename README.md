@@ -5,7 +5,7 @@ Based on **Ubuntu 20.04** as defined on [Geekbench site](https://www.geekbench.c
 ## Run
 
 ```
-docker run aarreoskari/geekbench4
+docker run 88plug/geekbench4
 ```
 
 ## Supported parameters
