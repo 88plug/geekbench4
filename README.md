@@ -1,4 +1,4 @@
-# Geekbench 4 for Linux inside Docker
+# Geekbench 4 Modernized for Docker
 
 Based on **Ubuntu 20.04** as defined on [Geekbench site](https://www.geekbench.com/download/linux/). Geekbench exited prematurely on **Ubuntu 16.04** when using xhyve or VMWare Fusion 8 as a VM.
 
